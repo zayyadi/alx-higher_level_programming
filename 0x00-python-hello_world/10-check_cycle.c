@@ -67,6 +67,3 @@ int check_cycle(listint_t *list)
 	}
 	return (0);
 }
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
